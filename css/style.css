@@ -108,7 +108,7 @@
     margin-bottom: 6rem;
     background: url(../img/) no-repeat;
     background-size: cover;
-    height: 100vh; /* Adjust to fit the viewport height */
+    height: 122vh; /* Adjust to fit the viewport height */
     width: 100%;
 }
 
