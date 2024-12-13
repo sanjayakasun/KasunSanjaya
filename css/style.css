@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #6244C5;
+    --primary: #FFB200;
     --secondary: #FFC448;
     --light: #FAFAFB;
     --dark: #12141D;
@@ -106,7 +106,10 @@
 /*** Header ***/
 #home {
     margin-bottom: 6rem;
-    background: url(../img/bg-header.png) left top no-repeat;
+    background: url(../img/) no-repeat;
+    background-size: cover;
+    height: 100vh; /* Adjust to fit the viewport height */
+    width: 100%;
 }
 
 .typed-cursor {
