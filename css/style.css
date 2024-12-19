@@ -75,6 +75,16 @@
     justify-content: center;
     font-weight: normal;
 }
+.downcv{
+    background-color: #FFB200; 
+    border-color: #FFB200; 
+    color: white;
+}
+.downcv:hover{
+    background-color: #ffffff; 
+    border-color: #000000; 
+    color: rgb(0, 0, 0);
+}
 
 
 /*** Navbar ***/
@@ -106,15 +116,18 @@
 /*** Header ***/
 #home {
     margin-bottom: 6rem;
-    background: url(../img/) no-repeat;
+    background: url(../img/bg.svg) no-repeat;
     background-size: cover;
-    height: 122vh; /* Adjust to fit the viewport height */
+    height: 110vh; /* Adjust to fit the viewport height */
     width: 100%;
 }
 
 .typed-cursor {
     font-size: 30px;
-    color: var(--dark);
+    color: var(--light);
+}
+.typed-text{
+    color: white;
 }
 
 .btn-play {
