@@ -3081,8 +3081,8 @@ fieldset:disabled .btn {
 
 .btn-primary {
     color: #fff;
-    background-color: #6244C5;
-    border-color: #6244C5
+    background-color: #FFB200;
+    border-color: #FFB200;
 }
 
 .btn-primary:hover {
@@ -4327,7 +4327,7 @@ fieldset:disabled .btn {
 .nav-link {
     display: block;
     padding: .5rem 1rem;
-    color: #6244C5;
+    color: #FFB200;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out
 }
 
@@ -4339,7 +4339,7 @@ fieldset:disabled .btn {
 
 .nav-link:hover,
 .nav-link:focus {
-    color: #4e369e
+    color: #FFB200
 }
 
 .nav-link.disabled {
@@ -4374,7 +4374,7 @@ fieldset:disabled .btn {
 
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-    color: #495057;
+    color: #FFB200;
     background-color: #fff;
     border-color: #dee2e6 #dee2e6 #fff
 }
@@ -4394,7 +4394,7 @@ fieldset:disabled .btn {
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
     color: #fff;
-    background-color: #6244C5
+    background-color: #FFB200
 }
 
 .nav-fill>.nav-link,
@@ -7306,7 +7306,7 @@ fieldset:disabled .btn {
 }
 
 .border-primary {
-    border-color: #6244C5 !important
+    border-color: #FFB200 !important
 }
 
 .border-secondary {
